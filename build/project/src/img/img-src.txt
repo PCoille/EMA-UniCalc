@@ -1,0 +1,3 @@
+unicorn-icon.png : https://pixabay.com/illustrations/unicorn-clipart-blue-pony-cute-2128415/
+unicorn-bg.png : https://pixabay.com/illustrations/unicorn-horse-minimalist-symbol-1600762/
+calculator-icon.png : https://pixabay.com/vectors/calculator-the-calculation-of-count-3186080/
